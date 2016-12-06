@@ -1,0 +1,2 @@
+# documentation
+LaTeX Documentation Template

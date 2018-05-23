@@ -1,0 +1,10 @@
+2018-05-23 08:45:09,879+0200 INFO  initexmf - starting: MiKTeX Configuration Utility 2.9.6598 (MiKTeX 2.9.6600)
+2018-05-23 08:45:09,879+0200 INFO  initexmf - Operating on the private (per-user) MiKTeX setup
+2018-05-23 08:45:09,879+0200 INFO  initexmf - starting with command line: initexmf --mkmaps
+2018-05-23 08:45:09,879+0200 INFO  initexmf - running: mkfntmap
+2018-05-23 08:45:38,690+0200 INFO  initexmf - finishing with exit code 0
+2018-05-23 08:46:24,622+0200 INFO  initexmf - starting: MiKTeX Configuration Utility 2.9.6598 (MiKTeX 2.9.6600)
+2018-05-23 08:46:24,622+0200 INFO  initexmf - Operating on the private (per-user) MiKTeX setup
+2018-05-23 08:46:24,622+0200 INFO  initexmf - starting with command line: initexmf --mkmaps
+2018-05-23 08:46:24,622+0200 INFO  initexmf - running: mkfntmap
+2018-05-23 08:46:25,544+0200 INFO  initexmf - finishing with exit code 0

@@ -1,0 +1,2 @@
+miktex-portable-2.9.6621
+textstudio-portable-2.12.8

@@ -1,0 +1,4 @@
+2018-05-23 08:58:41,216+0200 INFO  latex - starting with command line: latex.exe --version
+2018-05-23 08:58:41,235+0200 INFO  latex - allowing known shell commands
+2018-05-23 08:58:41,239+0200 INFO  latex - enabling input (output) from (to) processes
+2018-05-23 08:58:41,271+0200 INFO  latex - finishing with exit code 0

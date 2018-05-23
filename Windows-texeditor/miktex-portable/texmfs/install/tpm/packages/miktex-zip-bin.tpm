@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:TPM="http://texlive.dante.de/"><rdf:Description about="http://www.miktex.org/packages/miktex-zip-bin"><TPM:Name>Zip (Win32)</TPM:Name><TPM:Creator>mpc</TPM:Creator><TPM:Title>Zip binary for Windows (x86)</TPM:Title><TPM:Version>3.0</TPM:Version><TPM:TargetSystem>windows-x86</TPM:TargetSystem><TPM:Description>Zip is a compression and file packaging/archive utility.
+
+The Zip executable of the MiKTeX for Windows distribution has been
+renamed to miktex-zip.exe and therefore does not interfere with any
+official Zip installation (zip.exe).</TPM:Description><TPM:RunFiles size="305141">texmf\miktex\bin\miktex-zip.exe texmf\tpm\packages\miktex-zip-bin.tpm</TPM:RunFiles><TPM:DocFiles size="3412">texmf\doc\miktex\zip-bin\LICENSE</TPM:DocFiles><TPM:TimePackaged>1515790904</TPM:TimePackaged><TPM:MD5>71ebbc49d9e06e20f78b40f62bd05809</TPM:MD5><TPM:Copyright owner="Info-ZIP" year=""/><TPM:License type="permissive"/></rdf:Description></rdf:RDF>
